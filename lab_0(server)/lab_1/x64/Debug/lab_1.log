@@ -1,0 +1,4 @@
+﻿  server.cpp
+D:\Documents\LAB_WORKS_BSUIR\KS\lab_1\lab_1\server.cpp(70,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Documents\LAB_WORKS_BSUIR\KS\lab_1\lab_1\server.cpp(81,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  lab_1.vcxproj -> D:\Documents\LAB_WORKS_BSUIR\KS\lab_1\x64\Debug\lab_1.exe

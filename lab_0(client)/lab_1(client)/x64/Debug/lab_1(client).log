@@ -1,0 +1,3 @@
+﻿  client.cpp
+D:\Documents\LAB_WORKS_BSUIR\KS\lab_1(client)\lab_1(client)\client.cpp(37,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  lab_1(client).vcxproj -> D:\Documents\LAB_WORKS_BSUIR\KS\lab_1(client)\x64\Debug\lab_1(client).exe
